@@ -119,4 +119,4 @@ SUPABASE_ANON_KEY=your_key
 
 ## Author
 
-Bao M.
+Bao Kekana.
