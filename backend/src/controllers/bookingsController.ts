@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import { bookingSchema } from "../validators/bookingValidator";
 
-const supabase = require("../config/supabase");
+import supabase from "../config/supabase";
 
 export const getBookings = async (
     req: Request,
